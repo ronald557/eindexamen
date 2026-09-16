@@ -1,10 +1,10 @@
 # Strategy
 
 ## Visie
-Een oefen-app die middelbare scholieren helpt zich snel en laagdrempelig voor te bereiden op hun eindexamens. Geen zware leeromgeving, maar korte, toegankelijke oefensessies per vak die overal tussendoor passen.
+Een oefen-app die 6-vwo-leerlingen helpt zich snel en laagdrempelig voor te bereiden op hun centraal eindexamen. Geen zware leeromgeving, maar korte, toegankelijke oefensessies per vak die overal tussendoor passen.
 
 ## Doelgroep
-Middelbare scholieren (VO) die examenstof willen oefenen. Ze hebben weinig tijd en geduld voor ingewikkelde interfaces; ze willen snel starten, oefenen en resultaat zien.
+Leerlingen in 6 vwo die zich voorbereiden op hun centraal eindexamen. Ze hebben weinig tijd en geduld voor ingewikkelde interfaces; ze willen snel starten, examenstof op hun eigen niveau oefenen en resultaat zien.
 
 ## Belangrijkste gebruikersflow en schermen
 1. **Vakkenoverzicht** — startscherm met een lijst van vakken (bv. wiskunde, Nederlands, geschiedenis) om uit te kiezen.
